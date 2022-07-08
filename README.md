@@ -3,10 +3,7 @@
   src="https://media.giphy.com/media/sCIIl5TVOzdfmRfMI0/giphy.gif"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; height:100px; width: 300px">
-  
-  
-
+  style="display: inline-block; margin: 5 auto;">
 #### Hi, my name is Jorge 👋
 - **R&D Engineer** at Nutai
 
