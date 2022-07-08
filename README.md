@@ -26,8 +26,8 @@
 
 
 ### Education 🎓
-- **Master’s degree** in Artificial Intelligence, Pattern Recognition and Digital Imaging at Universidad Politecnica de Valencia (2020 - 2021)
-- **Bachelor's degree** in Computer Science with Machine learning specialization at Universidad Politecnica de Valencia (2016 - 2020)
+- **Master’s degree** in Artificial Intelligence, Pattern Recognition and Digital Imaging at *Universidad Politecnica de Valencia (2020 - 2021)*
+- **Bachelor's degree** in Computer Science with Machine learning specialization at *Universidad Politecnica de Valencia (2016 - 2020)*
 
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/jorgeav/)
