@@ -7,7 +7,7 @@
   
   
 
-#### Hi, my name is Jorge 👋 and I am an open-source ❤️
+#### Hi, my name is Jorge 👋
 - **R&D Engineer** at Nutai
 
 **Field of interests**: 
