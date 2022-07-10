@@ -8,14 +8,14 @@
 - **R&D Engineer** at Nutai
 
 **Field of interests**: 
-  - NLP, Computer Vision, Supervised learning, 
-  Time Series Forecasting MLOps
+  - NLP, Computer Vision, Supervised learning, MLOps,
+  Time Series Forecasting 
 
   
 ### Skills 🛠️
 
 - **Languages**: &nbsp;       Python, C#, C++, Java
-- **DS/ML/DL**: &nbsp;&nbsp;  NumPy, SciPy, Pandas, Scikit-Learn, Tensorflow, keras
+- **DS/ML/DL**: &nbsp;&nbsp;  NumPy, SciPy, Pandas, Scikit, Tensorflow, Keras
 - **RDBMS**:   &nbsp;&nbsp;   MySQL, MSSQL
 - **DevOps**:  &ensp;&nbsp;   Linux, Git, CI
 
