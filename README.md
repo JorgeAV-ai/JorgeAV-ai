@@ -8,7 +8,7 @@
 - **R&D Engineer** at Nutai
 
 **Field of interests**: 
-  - NLP, Computer Vision, Supervised learning 
+  - NLP, Computer Vision, Supervised learning, 
   Time Series Forecasting MLOps
 
   
