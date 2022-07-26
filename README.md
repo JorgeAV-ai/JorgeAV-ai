@@ -5,7 +5,7 @@
   title="Optional title"
   style="display: inline-block; margin: 5 auto;">
 #### Hi, my name is Jorge 👋
-- **R&D Engineer** at Nutai
+- **Software Engineer | Machine Learning Engineer** at Nutai
 
 **Field of interests**: 
   - NLP, Computer Vision, Supervised learning, MLOps,
