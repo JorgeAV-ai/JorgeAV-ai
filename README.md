@@ -5,27 +5,10 @@
   title="Optional title"
   style="display: inline-block; margin: 5 auto;">
 #### Hi, my name is Jorge 👋
-- **Data Scientist** at Cognizant
+- **Data Scientist**
 
 **Field of interests**: 
-  - NLP, Computer Vision, Supervised learning, MLOps,
-  Time Series Forecasting 
-
-  
-### Skills 🛠️
-
-- **Languages**: &nbsp;       Python, C#, C++, Java
-- **DS/ML/DL**: &nbsp;&nbsp;  NumPy, SciPy, Pandas, Scikit, Tensorflow, Keras
-- **RDBMS**:   &nbsp;&nbsp;   MySQL, MSSQL
-- **DevOps**:  &ensp;&nbsp;   Linux, Git, CI
-
-
-
-
-### Education 🎓
-- **Master’s degree** in Artificial Intelligence, Pattern Recognition and Digital Imaging at *Universidad Politecnica de Valencia (2020 - 2021)*
-- **Bachelor's degree** in Computer Science with Machine learning specialization at *Universidad Politecnica de Valencia (2016 - 2020)*
-
+  - NLP, Computer Vision, Supervised learning, MLOps
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/jorgeav/)
 
