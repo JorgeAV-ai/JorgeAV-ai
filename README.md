@@ -5,10 +5,10 @@
   title="Optional title"
   style="display: inline-block; margin: 5 auto;">
 #### Hi, my name is Jorge 👋
-- **Data Scientist**
+- **Deep Learning Engineer & Data Scientist**
 
 **Field of interests**: 
-  - NLP, Computer Vision, Supervised learning, MLOps
+  - NLP, Computer Vision, Supervised learning, Visual Document Understanding 
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/jorgeav/)
 
